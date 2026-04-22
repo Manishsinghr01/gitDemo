@@ -1,0 +1,31 @@
+Git >> Version control
+
+    v1
+    v2
+    v3
+new v4
+
+It is distributed (On cloud)
+>> Collabration
+>> Tracking changes
+>> Recovery
+
+
+
+>>For 1st time need to configure github in our system
+git config --global user.name "manishsinghr01"
+git config --global user.email "manishsinghm4944@gmail.com"
+
+git config --global color.ui auto
+
+Mandatory Commands: 
+>> git init
+>> git remote add origin https://github.com/Manishsinghr01/gitDemo.git
+
+git pull origin main
+git status
+
+git add       1.Funda_of_web_Techn.txt
+git status
+git commit -m "commit Messages"
+git push

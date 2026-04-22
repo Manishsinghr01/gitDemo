@@ -29,3 +29,6 @@ git add       1.Funda_of_web_Techn.txt
 git status
 git commit -m "commit Messages"
 git push
+
+Create a new branch 
+git checkout -b "branchName"

@@ -1,0 +1,75 @@
+MEAN stack
+  >> M: MongoDB (DataBase)
+  >> E:ExpressJs (Backend)
+  >> A: Angular (frontend)
+  >> N:NodeJs (Backend)
+
+Theree Pillars
+   >> HTML (Hyper Text Markup Languages)
+   >> CSS (Cascading Style sheets)
+   >> JS (Java script)
+
+Other Stacks
+  >>MEAN, MERN , Java full Stack
+
+Web Developers
+  >> Building /Developers Team
+  >> Testing team(Manual Testers/ Automated Testers)
+  >> Hosting Team (DevOps Team)
+  >> Mintanance Team/Support Team
+ 
+SDLC (Software Development Life Cycle):
+  >> Waterfall Model
+  >> Agile Model
+  >> Spiral Model
+  >> Iterative Model
+  >> Incremental Model
+  >> v shaped Model
+  >> RAD(Rapid Application Development)Model
+
+  URL (Uniform Resourece Locator)
+      https://www.instagram,com/
+      https://education.rohanAcademy.edu/Fullstack
+
+    https:Protocol
+    rohanAcademy:Server/Domain name
+    education:sub-Domain
+    .edu: TLD (Top Level Domain)
+    Fullstack: path/Location
+
+Protocol:
+  >>Set of rules/instructions
+        http : Hyper Text Tester Protocol
+        https: Hyper Text Tester Protocol secure
+        tcp  : Transmission control Protocol
+        udp  : user Datagram Protocol
+        smtp : simple Mail Transfer Protocol
+        ftp  : File Transfer Protocol
+        ip   : Internet Protocol
+
+            >> Clint/Web page ---------(uName & uPwd)-------> instagram Server
+            >> SSL (Secure socket Layer)Certificates
+
+
+Server/Domain name: 
+    >> Unique Identifier
+        >>eg. Google
+
+sub-Domain name: 
+    >> gmeet
+    >> gmaps
+    >> gmail
+    >>gphotoes
+    >>gchromes
+    >>gpay
+
+
+    >>Amazon shopping
+    >>Aws
+
+TLD (Top Level Domain):
+   Amazon.in
+   Amazon.com
+   Amazon.edu
+   Amazon.org
+
